@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java.md",
+                "file": "Kotlin/Строковые шаблоны.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java.md",
+                "file": "Kotlin/Строковые шаблоны.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java.md",
+                "file": "Kotlin/Строковые шаблоны.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java.md"
+                "file": "Kotlin/Строковые шаблоны.md"
               }
             }
           }
@@ -158,6 +157,7 @@
   },
   "active": "42307491d55adfde",
   "lastOpenFiles": [
+    "Java/Java.md",
     "Kotlin/Переменные Kotlin.md",
     "Kotlin/Операции с простыми типами Kotlin.md",
     "Kotlin/Приведение типов Kotlin.md",
@@ -175,7 +175,6 @@
     "Java/Операции с примитивными типами Java.md",
     "Java/Приведение типов Java.md",
     "Kotlin/Kotlin.md",
-    "Java/Java.md",
     "Java/Переменные Java.md",
     "Java/String.md",
     "Java/Тип данных.md",
