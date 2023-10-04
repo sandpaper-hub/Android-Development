@@ -1,0 +1,19 @@
+{
+  "vaultList": [
+    {
+      "name": "root",
+      "path": "/"
+    },
+    {
+      "path": "Java",
+      "name": "Java"
+    },
+    {
+      "path": "Kotlin",
+      "name": "Kotlin"
+    }
+  ],
+  "autoGenerateFrontmatter": true,
+  "autoReveal": true,
+  "customResolver": true
+}

@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "d5943a4cdfa67763",
+    "type": "split",
+    "children": [
+      {
+        "id": "23cf2c4af20e9922",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42307491d55adfde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a0c5faa4497f5e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c163f25824b3a389",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b83c74d224886f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "2b289781851e179d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#переменные",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4084d9d7b79a2b4f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "a90ae4336807cc8d",
+            "type": "leaf",
+            "state": {
+              "type": "dendron-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "112a82d729b4f450",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a99884fa3f591f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a95e81a787373738",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java/Java.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43eb26d49be91820",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java/Java.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7acc031d45e2c4b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c7a09dcc14b6b48",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java/Java.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "dendron-tree:Open Dendron Tree": false
+    }
+  },
+  "active": "42307491d55adfde",
+  "lastOpenFiles": [
+    "Kotlin/Переменные Kotlin.md",
+    "Kotlin/Операции с простыми типами Kotlin.md",
+    "Kotlin/Приведение типов Kotlin.md",
+    "Android.md",
+    "Введение.md",
+    "res/Типы данных Java.png",
+    "res/Таблица перeменных Java.png",
+    "res/Типы данных.png",
+    "res/Распределение памяти.png",
+    "res/JVM.png",
+    "Kotlin/Строковые шаблоны.md",
+    "Java/Примитивные типы.md",
+    "Java/Ссылочные типы.md",
+    "Java/Области памяти для хранения данных.md",
+    "Java/Операции с примитивными типами Java.md",
+    "Java/Приведение типов Java.md",
+    "Kotlin/Kotlin.md",
+    "Java/Java.md",
+    "Java/Переменные Java.md",
+    "Java/String.md",
+    "Java/Тип данных.md",
+    "().md",
+    "res/Преобразование типов.png",
+    "res",
+    "Kotlin",
+    "Java"
+  ]
+}
