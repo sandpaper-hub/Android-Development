@@ -11,15 +11,24 @@
             "id": "42307491d55adfde",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d38f743f2aeda329",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Строковые шаблоны.md",
+                "file": "Kotlin/Операторы Kotlin.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Строковые шаблоны.md",
+                "file": "Kotlin/Операторы Kotlin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Строковые шаблоны.md",
+                "file": "Kotlin/Операторы Kotlin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Строковые шаблоны.md"
+                "file": "Kotlin/Операторы Kotlin.md"
               }
             }
           }
@@ -152,11 +161,13 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "dendron-tree:Open Dendron Tree": false
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "42307491d55adfde",
+  "active": "d38f743f2aeda329",
   "lastOpenFiles": [
+    "Kotlin/Операторы Kotlin.md",
+    "Kotlin/Строковые шаблоны.md",
     "Java/Java.md",
     "Kotlin/Переменные Kotlin.md",
     "Kotlin/Операции с простыми типами Kotlin.md",
@@ -168,7 +179,6 @@
     "res/Типы данных.png",
     "res/Распределение памяти.png",
     "res/JVM.png",
-    "Kotlin/Строковые шаблоны.md",
     "Java/Примитивные типы.md",
     "Java/Ссылочные типы.md",
     "Java/Области памяти для хранения данных.md",
