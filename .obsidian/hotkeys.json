@@ -32,5 +32,23 @@
       ],
       "key": "`"
     }
+  ],
+  "editor:toggle-bold": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "8"
+    }
+  ],
+  "editor:toggle-italics": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "8"
+    }
   ]
 }

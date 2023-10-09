@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42307491d55adfde",
+            "id": "60555d612d0dffad",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,19 +16,18 @@
             }
           },
           {
-            "id": "d38f743f2aeda329",
+            "id": "4ba61b1082d9c6cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Операторы Kotlin.md",
+                "file": "Kotlin/Классы/Утилитарные классы.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#переменные",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 247.5
   },
   "right": {
     "id": "112a82d729b4f450",
@@ -102,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Операторы Kotlin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Операторы Kotlin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kotlin/Операторы Kotlin.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,14 +159,31 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "d38f743f2aeda329",
+  "active": "60555d612d0dffad",
   "lastOpenFiles": [
-    "Kotlin/Операторы Kotlin.md",
-    "Kotlin/Строковые шаблоны.md",
+    "Kotlin/Классы/Утилитарные классы.md",
+    "res/Создание нового файла Kotlin.png",
+    "Kotlin/Классы/Классы Kotlin.md",
+    "Kotlin/Классы/Data Classes.md",
+    "Kotlin/Классы/Конструкторы.md",
+    "Kotlin/Переменные/Переменные Kotlin.md",
+    "res/Nullable операторы.png",
+    "Kotlin/Переменные/Nullable.md",
+    "Kotlin/Методы/Дефолтные параметры.md",
+    "Kotlin/Методы/Методы Kotlin.md",
+    "Kotlin/Классы/Геттеры и сеттеры.md",
+    "Kotlin/Переменные/Строковые шаблоны.md",
+    "Kotlin/Переменные/Операции с простыми типами Kotlin.md",
+    "Kotlin/Переменные/Приведение типов Kotlin.md",
+    "Kotlin/Операторы/Циклы Kotlin.md",
+    "Kotlin/Операторы/Условные операторы Kotlin.md",
+    "Kotlin/Операторы/Операторы Kotlin.md",
+    "Kotlin/Kotlin.md",
+    "Kotlin/Методы",
+    "Kotlin/Классы",
+    "Kotlin/Переменные",
+    "Kotlin/Операторы",
     "Java/Java.md",
-    "Kotlin/Переменные Kotlin.md",
-    "Kotlin/Операции с простыми типами Kotlin.md",
-    "Kotlin/Приведение типов Kotlin.md",
     "Android.md",
     "Введение.md",
     "res/Типы данных Java.png",
@@ -184,11 +196,7 @@
     "Java/Области памяти для хранения данных.md",
     "Java/Операции с примитивными типами Java.md",
     "Java/Приведение типов Java.md",
-    "Kotlin/Kotlin.md",
     "Java/Переменные Java.md",
-    "Java/String.md",
-    "Java/Тип данных.md",
-    "().md",
     "res/Преобразование типов.png",
     "res",
     "Kotlin",
