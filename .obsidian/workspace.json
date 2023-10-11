@@ -11,17 +11,9 @@
             "id": "60555d612d0dffad",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d13d3bc83ba42a69",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Kotlin/Переменные/Nullable.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,16 +76,9 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "a90ae4336807cc8d",
-            "type": "leaf",
-            "state": {
-              "type": "dendron-tree-view",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -114,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Kotlin/Переменные/Nullable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Kotlin/Переменные/Nullable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Kotlin/Переменные/Nullable.md"
               }
             }
           }
@@ -176,8 +160,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "d13d3bc83ba42a69",
+  "active": "4084d9d7b79a2b4f",
   "lastOpenFiles": [
+    "Kotlin/Переменные/Nullable.md",
     "README.md",
     "Kotlin/Классы/Утилитарные классы.md",
     "res/Создание нового файла Kotlin.png",
@@ -186,7 +171,6 @@
     "Kotlin/Классы/Конструкторы.md",
     "Kotlin/Переменные/Переменные Kotlin.md",
     "res/Nullable операторы.png",
-    "Kotlin/Переменные/Nullable.md",
     "Kotlin/Методы/Дефолтные параметры.md",
     "Kotlin/Методы/Методы Kotlin.md",
     "Kotlin/Классы/Геттеры и сеттеры.md",
