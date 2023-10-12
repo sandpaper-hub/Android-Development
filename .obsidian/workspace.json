@@ -8,26 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60555d612d0dffad",
+            "id": "4d6fd7721acd1e17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "companion object.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03c5c062a5619702",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "52c20af6eef14cad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Singleton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 200
   },
   "right": {
     "id": "112a82d729b4f450",
@@ -151,34 +152,36 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "60555d612d0dffad",
+  "active": "03c5c062a5619702",
   "lastOpenFiles": [
+    "companion object.md",
+    "object Kotlin.md",
+    "Анонимные классы Kotlin.md",
+    "Константы времени компиляции.md",
+    "Singleton.md",
+    "Kotlin/Переменные/Переменные Kotlin.md",
+    "Kotlin/Классы/Классы Kotlin.md",
+    "README.md",
+    "Kotlin/Методы/Методы Kotlin.md",
+    "Kotlin/Классы/Геттеры и сеттеры.md",
+    "Kotlin/Kotlin.md",
     "Kotlin/Классы/Конструкторы.md",
     "Паттерны.md",
-    "Singleton.md",
     "Java/Паттерны Java.md",
     "Kotlin/Паттерны Kotlin.md",
-    "Kotlin/Kotlin.md",
     "Java/Java.md",
     "Kotlin/Классы/Утилитарные классы.md",
     "Kotlin/Переменные/Nullable.md",
     "Android.md",
     "Введение.md",
-    "README.md",
     "res/Создание нового файла Kotlin.png",
-    "Kotlin/Классы/Классы Kotlin.md",
     "Kotlin/Классы/Data Classes.md",
-    "Kotlin/Переменные/Переменные Kotlin.md",
     "res/Nullable операторы.png",
     "Kotlin/Методы/Дефолтные параметры.md",
-    "Kotlin/Методы/Методы Kotlin.md",
-    "Kotlin/Классы/Геттеры и сеттеры.md",
     "Kotlin/Переменные/Строковые шаблоны.md",
     "Kotlin/Переменные/Операции с простыми типами Kotlin.md",
     "Kotlin/Переменные/Приведение типов Kotlin.md",
     "Kotlin/Операторы/Циклы Kotlin.md",
-    "Kotlin/Операторы/Условные операторы Kotlin.md",
-    "Kotlin/Операторы/Операторы Kotlin.md",
     "Kotlin/Методы",
     "Kotlin/Классы",
     "Kotlin/Переменные",
@@ -188,8 +191,6 @@
     "res/Типы данных.png",
     "res/Распределение памяти.png",
     "res/JVM.png",
-    "Java/Примитивные типы.md",
-    "Java/Ссылочные типы.md",
     "res/Преобразование типов.png",
     "res",
     "Kotlin",
