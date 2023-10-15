@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "companion object.md",
+                "file": "Kotlin/Классы/companion object.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "03c5c062a5619702",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "welco",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kotlin/Классы/companion object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kotlin/Классы/companion object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kotlin/Классы/companion object.md"
+              }
             }
           }
         ]
@@ -152,16 +147,22 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "03c5c062a5619702",
+  "active": "4d6fd7721acd1e17",
   "lastOpenFiles": [
-    "companion object.md",
-    "object Kotlin.md",
-    "Анонимные классы Kotlin.md",
-    "Константы времени компиляции.md",
+    "Введение.md",
+    "README.md",
+    "Kotlin/Операторы/Операторы Kotlin.md",
+    "Kotlin/Переменные/Константы времени компиляции.md",
+    "Kotlin/Ключевые слова",
+    "Java/Java.md",
+    "Без названия.canvas",
+    "Java/Тип данных.md",
+    "Kotlin/Классы/companion object.md",
+    "Kotlin/Классы/object Kotlin.md",
+    "Kotlin/Классы/Анонимные классы Kotlin.md",
     "Singleton.md",
     "Kotlin/Переменные/Переменные Kotlin.md",
     "Kotlin/Классы/Классы Kotlin.md",
-    "README.md",
     "Kotlin/Методы/Методы Kotlin.md",
     "Kotlin/Классы/Геттеры и сеттеры.md",
     "Kotlin/Kotlin.md",
@@ -169,19 +170,14 @@
     "Паттерны.md",
     "Java/Паттерны Java.md",
     "Kotlin/Паттерны Kotlin.md",
-    "Java/Java.md",
     "Kotlin/Классы/Утилитарные классы.md",
     "Kotlin/Переменные/Nullable.md",
     "Android.md",
-    "Введение.md",
     "res/Создание нового файла Kotlin.png",
     "Kotlin/Классы/Data Classes.md",
     "res/Nullable операторы.png",
     "Kotlin/Методы/Дефолтные параметры.md",
     "Kotlin/Переменные/Строковые шаблоны.md",
-    "Kotlin/Переменные/Операции с простыми типами Kotlin.md",
-    "Kotlin/Переменные/Приведение типов Kotlin.md",
-    "Kotlin/Операторы/Циклы Kotlin.md",
     "Kotlin/Методы",
     "Kotlin/Классы",
     "Kotlin/Переменные",
