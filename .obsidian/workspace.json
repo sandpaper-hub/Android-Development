@@ -8,14 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d6fd7721acd1e17",
+            "id": "ecf137863136723c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Классы/companion object.md",
-                "mode": "source",
+                "file": "Q&A.md",
+                "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "debe6bf5002d21b2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "res/Task Shortcuts.png"
               }
             }
           }
@@ -48,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "welco",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Классы/companion object.md",
+                "file": "Q&A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Классы/companion object.md",
+                "file": "Q&A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Классы/companion object.md"
+                "file": "Q&A.md"
               }
             }
           }
@@ -147,8 +157,25 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "4d6fd7721acd1e17",
+  "active": "ecf137863136723c",
   "lastOpenFiles": [
+    "res/Task Shortcuts.png",
+    "Q&A.md",
+    "res/Task Shortcuts.md",
+    "res/Создание нового файла Kotlin.png",
+    "Kotlin/Классы/Анонимные классы Kotlin.md",
+    "Паттерны",
+    "Kotlin/Kotlin.md",
+    "Kotlin/Переменные/Nullable.md",
+    "Kotlin/Классы/Классы Kotlin.md",
+    "Kotlin/Классы/object Kotlin.md",
+    "Kotlin/Классы/Enum Kotlin.md",
+    "Kotlin/Переменные/Строковые шаблоны.md",
+    "Kotlin/Переменные/Операции с простыми типами Kotlin.md",
+    "Kotlin/Переменные/Приведение типов Kotlin.md",
+    "Kotlin/Переменные/Переменные Kotlin.md",
+    "Паттерны/Паттерны.md",
+    "Kotlin/Классы/companion object.md",
     "Введение.md",
     "README.md",
     "Kotlin/Операторы/Операторы Kotlin.md",
@@ -157,27 +184,12 @@
     "Java/Java.md",
     "Без названия.canvas",
     "Java/Тип данных.md",
-    "Kotlin/Классы/companion object.md",
-    "Kotlin/Классы/object Kotlin.md",
-    "Kotlin/Классы/Анонимные классы Kotlin.md",
-    "Singleton.md",
-    "Kotlin/Переменные/Переменные Kotlin.md",
-    "Kotlin/Классы/Классы Kotlin.md",
+    "Паттерны/Singleton.md",
     "Kotlin/Методы/Методы Kotlin.md",
     "Kotlin/Классы/Геттеры и сеттеры.md",
-    "Kotlin/Kotlin.md",
     "Kotlin/Классы/Конструкторы.md",
-    "Паттерны.md",
     "Java/Паттерны Java.md",
-    "Kotlin/Паттерны Kotlin.md",
-    "Kotlin/Классы/Утилитарные классы.md",
-    "Kotlin/Переменные/Nullable.md",
-    "Android.md",
-    "res/Создание нового файла Kotlin.png",
-    "Kotlin/Классы/Data Classes.md",
     "res/Nullable операторы.png",
-    "Kotlin/Методы/Дефолтные параметры.md",
-    "Kotlin/Переменные/Строковые шаблоны.md",
     "Kotlin/Методы",
     "Kotlin/Классы",
     "Kotlin/Переменные",
