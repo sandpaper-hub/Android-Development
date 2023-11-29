@@ -4,28 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "23cf2c4af20e9922",
+        "id": "db686e17cc347ed9",
         "type": "tabs",
         "children": [
           {
-            "id": "ecf137863136723c",
+            "id": "cb4f8fb3bbfde01c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f956fdba84b1f50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q&A.md",
-                "mode": "preview",
+                "file": "Kotlin/Система типов Kotlin.md",
+                "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "debe6bf5002d21b2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "res/Task Shortcuts.png"
               }
             }
           }
@@ -79,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 287.5
   },
   "right": {
     "id": "112a82d729b4f450",
@@ -95,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q&A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q&A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Q&A.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,38 +151,44 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "ecf137863136723c",
+  "active": "cb4f8fb3bbfde01c",
   "lastOpenFiles": [
-    "res/Task Shortcuts.png",
-    "Q&A.md",
-    "res/Task Shortcuts.md",
-    "res/Создание нового файла Kotlin.png",
-    "Kotlin/Классы/Анонимные классы Kotlin.md",
-    "Паттерны",
-    "Kotlin/Kotlin.md",
-    "Kotlin/Переменные/Nullable.md",
-    "Kotlin/Классы/Классы Kotlin.md",
-    "Kotlin/Классы/object Kotlin.md",
-    "Kotlin/Классы/Enum Kotlin.md",
-    "Kotlin/Переменные/Строковые шаблоны.md",
-    "Kotlin/Переменные/Операции с простыми типами Kotlin.md",
-    "Kotlin/Переменные/Приведение типов Kotlin.md",
-    "Kotlin/Переменные/Переменные Kotlin.md",
-    "Паттерны/Паттерны.md",
-    "Kotlin/Классы/companion object.md",
-    "Введение.md",
-    "README.md",
-    "Kotlin/Операторы/Операторы Kotlin.md",
     "Kotlin/Переменные/Константы времени компиляции.md",
-    "Kotlin/Ключевые слова",
-    "Java/Java.md",
-    "Без названия.canvas",
-    "Java/Тип данных.md",
-    "Паттерны/Singleton.md",
-    "Kotlin/Методы/Методы Kotlin.md",
-    "Kotlin/Классы/Геттеры и сеттеры.md",
+    "Kotlin/Kotlin.md",
+    "Kotlin/Система типов Kotlin.md",
+    "Kotlin/Классы/Тип Unit.md",
+    "Java/Переменные Java.md",
+    "Kotlin/Классы/Абстрактные классы Kotlin.md",
+    "Kotlin/Классы/Изолированные классы и интерфейсы.md",
+    "Kotlin/Классы/Классы Kotlin.md",
+    "Kotlin/Классы/Функциональные интерфейсы Kotlin.md",
+    "Kotlin/Классы/Enum Kotlin.md",
+    "Kotlin/Классы/Утилитарные классы.md",
+    "Kotlin/Классы/Data Classes.md",
     "Kotlin/Классы/Конструкторы.md",
-    "Java/Паттерны Java.md",
+    "Kotlin/Классы/Геттеры и сеттеры.md",
+    "Kotlin/Переменные/Переменные Kotlin.md",
+    "Kotlin/Переменные/Приведение типов Kotlin.md",
+    "Kotlin/Методы/2. Дефолтные параметры.md",
+    "Kotlin/Методы/1. Методы Kotlin.md",
+    "Kotlin/Наследование Kotlin.md",
+    "Kotlin/Классы/Анонимные классы Kotlin.md",
+    "Kotlin/Классы/object Kotlin.md",
+    "Kotlin/Модификаторы доступа Kotlin.md",
+    "res/Pasted image 20231128222737.png",
+    "res/Pasted image 20231128222551.png",
+    "res/Pasted image 20231128222529.png",
+    "Kotlin/Классы/Анонимные объекты Kotlin.md",
+    "Kotlin/Классы/companion object.md",
+    "Паттерны/Singleton.md",
+    "Введение.md",
+    "res/Создание нового файла Kotlin.png",
+    "res/Task Shortcuts.png",
+    "Уроки",
+    "_debug_remotely_save",
+    "Паттерны",
+    "Kotlin/Ключевые слова",
+    "Без названия.canvas",
     "res/Nullable операторы.png",
     "Kotlin/Методы",
     "Kotlin/Классы",
@@ -198,10 +198,7 @@
     "res/Таблица перeменных Java.png",
     "res/Типы данных.png",
     "res/Распределение памяти.png",
-    "res/JVM.png",
-    "res/Преобразование типов.png",
     "res",
-    "Kotlin",
-    "Java"
+    "Kotlin"
   ]
 }

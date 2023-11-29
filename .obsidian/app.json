@@ -1,4 +1,6 @@
 {
   "propertiesInDocument": "visible",
-  "vimMode": false
+  "vimMode": false,
+  "attachmentFolderPath": "res",
+  "alwaysUpdateLinks": true
 }
