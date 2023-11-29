@@ -1,112 +1,87 @@
-Kotlin позволяет создавать **анонимные объекты**. Объекты анонимных классов, то есть классов, которые явно не объявлены с помощью `class`, полезны для одноразового использования. Мы можем объявить их с нуля, наследовать от существующих классов или реализовать интерфейсы.
+Kotlin основан на Java и полностью совместим с кодом на Java. И значит это следующее:
 
-Экземпляры анонимных классов могут называться анонимными объектами, потому что они объявляются выражением, а не именем.
+- Любой код на Kotlin может быть вызван из кода на Java и наоборот.
+- Любой код, написанный на Kotlin, тем или иным способом можно написать на Java.
 
-Чтобы создать анонимный объект, мы используем ключевое слово `object`
+Анонимные классы в Kotlin решают те же задачи, что и в Java, но имеют другой синтаксис.
 
 ```kotlin
-fun main() {
-    val writersApprentice = object : Writer() {
-        fun tellStory() {
-            println("Давным давно...")
-        }
-    }
+interface SomeInterface {
+    fun someMethod()
+    fun anotherMethod()
+}
 
-    writersApprentice.tellStory()
+fun main() {
+    // для создания анонимного экземпляра класса мы как бы создаем object, который реализует наш интерфейс
+    val someInterface = object : SomeInterface {
+        override fun someMethod() {}
+        override fun anotherMethod() {}
+        
+        
+    }
+}
+```
+
+1. Чтобы создать [[Анонимные объекты Kotlin|объект анонимного]] класса, который наследуется от какого-то типа или типов, укажите этот тип после `object` и двоеточия `:`.
+2. Затем реализуйте или переопределите члены этого класса, как если бы вы наследовали от него.
+
+Фактически мы создаём анонимный объект, которые реализует необходимый нам интерфейс.
+
+Если у супертипа есть конструктор, например, абстрактный класс, то в него должны быть переданы соответствующие параметры.
+
+```kotlin
+abstract class SomeAbstractClass(param: Int) {
+
+    abstract fun someMethod()
+}
+
+fun main() {
+    val someAbstractClass = object : SomeAbstractClass(param = 10) { // вызываем конструктор класса SomeAbstractClass и передаем в него именованный параметр - 10
+        override fun someMethod() {}
+        
+        
+    }
+}
+```
+
+При наследовании от класса, у которого есть параметры, в конструкторе тоже нужно передать параметры, как если бы мы создавали обычный экземпляр класса.
+
+При создании анонимного класса можно создать для него параметры внутри класса:
+```kotlin
+val someAbstractClass = object : SomeInterface {
+
+    // параметры внутри анонимного класса
+    val innerParam: String = "Я люблю Практикум"
+    val counter: Int = 100
+
+    override fun someMethod() {}
 } 
 ```
 
-Анонимные объекты тоже могут иметь супертипы (классы-родители, интерфейсы):
+В отличие от Java, в Kotlin анонимные классы могут реализовывать больше одного интерфейса. При этом важно помнить, что наследоваться можно только от одного класса.
 
 ```kotlin
-abstract class Writer
+abstract class SomeAbstractClass(param: Int) {
+    abstract fun someMethod()
+}
 
-interface StoryKeeper
+interface SomeInterface {
+    fun someMethodFromInterface()
+}
+
+interface AnotherInterface {
+    fun anotherMethod()
+}
 
 fun main() {
-    // анонимный объект наследуется от класса Writer и реализует интерфейс StoryKeeper
-    val writersApprentice = object : Writer(), StoryKeeper {
-        fun tellStory() {
-            println("Давным давно...")
-        }
+    // анонимный класс наследуется от абстрактного класса SomeAbstractClass и реализует интерфейсы SomeInterface и AnotherInterface
+    val someAbstractClass = object : SomeAbstractClass(param = 10), SomeInterface, AnotherInterface {
+            
+                 // компилятор обяжет нас реализовать все абстрактные методы из всех классов и интерфейсов
+        override fun someMethod() {} // метод абстрактного класса SomeAbstractClass 
+        override fun someMethodFromInterface() {} // метод интерфейса SomeInterface
+        override fun anotherMethod() {} // метод интерфейса AnotherInterface
+        
     }
-
-    writersApprentice.tellStory()
 } 
 ```
-
-### Использование анонимных объектов в качестве возвращаемых типов значений
-
-Когда анонимный объект используется в качестве типа local или [private](https://kotlinlang.ru/docs/visibility-modifiers.html#packages), но не [встроенного](https://kotlinlang.ru/docs/inline-functions.html) объявления (функции или свойства), все его члены доступны через эту функцию или свойство.
-
-```kotlin
-class C {
-    private fun getObject() = object {
-        val x: String = "x"
-    }
-
-    fun printX() {
-        println(getObject().x)
-    }
-}
-```
-
-Если эта функция или свойство маркированы как public или встроенный private, то их тип:
-
-- `Any`, если анонимный объект не имеет объявленного супертипа;
-- Объявленный супертип анонимного объекта, если существует ровно один такой тип;
-- Явно объявленный тип, если существует более одного объявленного супертипа.
-
-Во всех этих случаях члены, добавленные в анонимный объект, недоступны. Переопределенные члены доступны, если они объявлены в фактическом типе функции или свойства.
-
-```kotlin
-interface A {
-    fun funFromA() {}
-}
-interface B
-
-class C {
-    // Возвращаемый тип Any. x недоступен
-    fun getObject() = object {
-        val x: String = "x"
-    }
-
-    // Возвращаемый тип A; x недоступен
-    fun getObjectA() = object: A {
-        override fun funFromA() {}
-        val x: String = "x"
-    }
-
-    // Возвращаемый тип B; funFromA() и x недоступны
-    fun getObjectB(): B = object: A, B { // требуется явный тип возвращаемого значения
-        override fun funFromA() {}
-        val x: String = "x"
-    }
-}
-```
-
-### Анонимный объект как аргумент функции
-
-Анонимный объект может передаваться в качестве аргумента в вызов функции:
-
-```kotlin
-fun main() {
-	hello(
-		object : Person("Sam") {
-			val company = "JetBrains"
-			override fun sayHello() {
-				println("Hi, my name is $name. I work in $company")
-			}
-	})
-}
-
-fun hello(person: Person) {
-	person.sayHello()
-}
-
-open class Person(val name: String) {
-	open fun sayHello() = println("Hi, my name is $name")
-}
-```
-
-Здесь, поскольку класс анонимного объекта наследуется от класса Person, мы можем передавать этот анонимный объект параметру функции, который имеет тип Person.
