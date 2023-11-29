@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Система типов Kotlin.md",
+                "file": "Kotlin/Kotlin.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 200
   },
   "right": {
     "id": "112a82d729b4f450",
@@ -153,9 +153,17 @@
   },
   "active": "cb4f8fb3bbfde01c",
   "lastOpenFiles": [
-    "Kotlin/Переменные/Константы времени компиляции.md",
+    "Kotlin/Методы/Методы Kotlin.md",
+    "Kotlin/Методы/Дефолтные параметры.md",
     "Kotlin/Kotlin.md",
+    "Kotlin/Массивы Kotlin.md",
     "Kotlin/Система типов Kotlin.md",
+    "Kotlin/Наследование Kotlin.md",
+    "Kotlin/Модификаторы доступа Kotlin.md",
+    "Kotlin/Классы/Data Classes.md",
+    "Kotlin/vararg.md",
+    "O.canvas",
+    "Kotlin/Переменные/Константы времени компиляции.md",
     "Kotlin/Классы/Тип Unit.md",
     "Java/Переменные Java.md",
     "Kotlin/Классы/Абстрактные классы Kotlin.md",
@@ -164,24 +172,17 @@
     "Kotlin/Классы/Функциональные интерфейсы Kotlin.md",
     "Kotlin/Классы/Enum Kotlin.md",
     "Kotlin/Классы/Утилитарные классы.md",
-    "Kotlin/Классы/Data Classes.md",
     "Kotlin/Классы/Конструкторы.md",
     "Kotlin/Классы/Геттеры и сеттеры.md",
     "Kotlin/Переменные/Переменные Kotlin.md",
     "Kotlin/Переменные/Приведение типов Kotlin.md",
-    "Kotlin/Методы/2. Дефолтные параметры.md",
-    "Kotlin/Методы/1. Методы Kotlin.md",
-    "Kotlin/Наследование Kotlin.md",
     "Kotlin/Классы/Анонимные классы Kotlin.md",
     "Kotlin/Классы/object Kotlin.md",
-    "Kotlin/Модификаторы доступа Kotlin.md",
     "res/Pasted image 20231128222737.png",
     "res/Pasted image 20231128222551.png",
     "res/Pasted image 20231128222529.png",
     "Kotlin/Классы/Анонимные объекты Kotlin.md",
     "Kotlin/Классы/companion object.md",
-    "Паттерны/Singleton.md",
-    "Введение.md",
     "res/Создание нового файла Kotlin.png",
     "res/Task Shortcuts.png",
     "Уроки",
