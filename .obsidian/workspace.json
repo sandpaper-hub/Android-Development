@@ -153,6 +153,7 @@
   },
   "active": "cb4f8fb3bbfde01c",
   "lastOpenFiles": [
+    "O.canvas",
     "Kotlin/Методы/Методы Kotlin.md",
     "Kotlin/Методы/Дефолтные параметры.md",
     "Kotlin/Kotlin.md",
@@ -162,7 +163,6 @@
     "Kotlin/Модификаторы доступа Kotlin.md",
     "Kotlin/Классы/Data Classes.md",
     "Kotlin/vararg.md",
-    "O.canvas",
     "Kotlin/Переменные/Константы времени компиляции.md",
     "Kotlin/Классы/Тип Unit.md",
     "Java/Переменные Java.md",
@@ -182,7 +182,6 @@
     "res/Pasted image 20231128222551.png",
     "res/Pasted image 20231128222529.png",
     "Kotlin/Классы/Анонимные объекты Kotlin.md",
-    "Kotlin/Классы/companion object.md",
     "res/Создание нового файла Kotlin.png",
     "res/Task Shortcuts.png",
     "Уроки",
