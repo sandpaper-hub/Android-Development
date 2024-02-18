@@ -4,18 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "86a76b5d5d77abb2",
+        "id": "69be1f6f24f7b624",
         "type": "tabs",
         "children": [
           {
-            "id": "c8466359af6c9563",
+            "id": "1d943ce647904bc6",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Классы и объекты/Классы и объекты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37d596bfaa7e70e5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -44,10 +60,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sealed",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -65,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 228.5
   },
   "right": {
     "id": "112a82d729b4f450",
@@ -81,13 +97,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -139,35 +155,43 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c8466359af6c9563",
+  "active": "37d596bfaa7e70e5",
   "lastOpenFiles": [
-    "Kotlin/Kotlin.md",
-    "Kotlin/Мульти декларации.md",
-    "Уроки/Мульти-декларации.md",
-    "Kotlin/Методы/Методы Kotlin.md",
-    "Уроки/Функции расширения.md",
-    "Уроки/Функции высшего порядка.md",
-    "Kotlin/Методы/Дефолтные параметры.md",
-    "Kotlin/Методы/Функции расширения.md",
-    "Kotlin/Методы/Функции высшего порядка.md",
-    "Kotlin/Методы/Функциональные типы.md",
-    "Kotlin/Коллекции/Map и MutableMap.md",
-    "Kotlin/Псевдонимы типов.md",
-    "Kotlin/Классы/Анонимные объекты Kotlin.md",
-    "функциональных типов.md",
-    "Kotlin/Классы/object Kotlin.md",
-    "Kotlin/Классы/Утилитарные классы.md",
+    "Java/Классы и объекты/Классы и объекты.md",
+    "Java/Переменные и типы данных/Переменные Java.md",
+    "Java/Классы и объекты/Интерфейсы.md",
+    "Java/Переменные и типы данных/Object Java.md",
+    "Java/Переменные и типы данных/Ссылочные типы.md",
+    "Java/Ключевое слово final.md",
+    "Java/Java.md",
+    "Java/Ключевое слово Static.md",
+    "Java/ООП/Инкапсуляция.md",
+    "Java/ООП/Наследование.md",
+    "Java/ООП/Полиморфизм.md",
+    "Java/ООП/Абстракция.md",
+    "Java/ООП/Объектно-ориентированное программирование.md",
+    "Kotlin/ООП/Наследование Kotlin.md",
+    "Java/Классы и объекты/Абстрактные классы и ключевое слово abstract.md",
+    "Java/Модификаторы доступа.md",
+    "Kotlin/Коллекции/Итератор Kotlin.md",
+    "Java/Классы и объекты/Конструкторы Java.md",
+    "Kotlin/ООП/Модификаторы доступа Kotlin.md",
+    "Java/ООП",
+    "Java/Методы/Перегрузка методов.md",
     "Kotlin/Классы/Конструкторы.md",
-    "Kotlin/Классы/Геттеры и сеттеры.md",
     "Kotlin/Классы/Классы Kotlin.md",
-    "Kotlin/Коллекции/Коллекции Kotlin (общее определение).md",
-    "Kotlin/Коллекции/Интерфейс Collection.md",
+    "README.md",
+    "Введение.md",
+    "Java/Методы/Методы.md",
+    "Kotlin/Методы/Методы Kotlin.md",
+    "Java/Классы и объекты",
+    "Kotlin/ООП",
+    "Java/Методы",
+    "Java/Операторы",
+    "Java/Переменные и типы данных",
+    "Kotlin/Исключения",
+    "Kotlin/Обобщения",
     "Kotlin/Методы/Без названия",
-    "Kotlin/Переменные/Переменные Kotlin.md",
-    "Kotlin/Классы/Функциональные интерфейсы Kotlin.md",
-    "Паттерны/Singleton.md",
-    "Kotlin/Коллекции/Операции коллекций.md",
-    "Kotlin/Коллекции/Преобразование коллекций.md",
     "res/Распределение памяти.png",
     "res/Создание нового файла Kotlin.png",
     "res/Pasted image 20231213212259.png",
@@ -177,16 +201,8 @@
     "res/Task Shortcuts.png",
     "Kotlin/Коллекции",
     "O.canvas",
-    "Уроки",
-    "_debug_remotely_save",
-    "Паттерны",
-    "Kotlin/Ключевые слова",
     "Без названия.canvas",
     "res/Nullable операторы.png",
-    "Kotlin/Методы",
-    "Kotlin/Классы",
-    "Kotlin/Переменные",
-    "Kotlin/Операторы",
     "res/Типы данных Java.png",
     "res/Таблица перeменных Java.png"
   ]
