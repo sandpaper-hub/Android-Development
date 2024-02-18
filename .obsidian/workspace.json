@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Классы и объекты/Классы и объекты.md",
+                "file": "Java/Ключевое слово Static.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,6 +157,7 @@
   },
   "active": "37d596bfaa7e70e5",
   "lastOpenFiles": [
+    "Java/Ключевое слово Static.md",
     "Java/Классы и объекты/Классы и объекты.md",
     "Java/Переменные и типы данных/Переменные Java.md",
     "Java/Классы и объекты/Интерфейсы.md",
@@ -164,7 +165,6 @@
     "Java/Переменные и типы данных/Ссылочные типы.md",
     "Java/Ключевое слово final.md",
     "Java/Java.md",
-    "Java/Ключевое слово Static.md",
     "Java/ООП/Инкапсуляция.md",
     "Java/ООП/Наследование.md",
     "Java/ООП/Полиморфизм.md",
