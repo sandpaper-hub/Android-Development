@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Коллекции/Коллекции.md",
+                "file": "Java/Коллекции/Интерфейс Comparable и Comparator.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -97,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/Коллекции/Интерфейс Comparable и Comparator.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/Коллекции/Интерфейс Comparable и Comparator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/Коллекции/Интерфейс Comparable и Comparator.md"
+              }
             }
           }
         ]
@@ -155,18 +158,20 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "37d596bfaa7e70e5",
+  "active": "1d943ce647904bc6",
   "lastOpenFiles": [
-    "Java/Коллекции/Коллекции.md",
     "Java/Коллекции/SortedSet, NavigableSet, TreeSet.md",
+    "Java/Коллекции/Интерфейс Comparable и Comparator.md",
+    "Java/Коллекции/Коллекции.md",
     "Java/Коллекции/Интерфейс Set и HashSet.md",
-    "Java/Коллекции/LinkedList.md",
     "Java/Коллекции/Интерфейс Queue и Deque.md",
+    "Java/Коллекции/LinkedList.md",
+    "Java/Лямбда выражения.md",
     "Java/Коллекции/Интерфейс List.md",
     "res/original.jpeg",
     "Java/Java.md",
     "Java/ООП/Объектно-ориентированное программирование.md",
-    "Java/Модификаторы доступа.md",
+    "Java/ООП/Модификаторы доступа.md",
     "Java/Коллекции",
     "Java/Без названия.md",
     "Java/Переменные и типы данных/Массивы.md",
@@ -174,7 +179,6 @@
     "Java/Переменные и типы данных/Тип данных.md",
     "Java/Переменные и типы данных/Ссылочные типы.md",
     "Java/Классы и объекты/Классы и объекты.md",
-    "Java/Лямбда выражения.md",
     "Java/Классы и объекты/Анонимные классы.md",
     "Java/Классы и объекты/Вложенные классы.md",
     "Java/Переменные и типы данных/Object Java.md",
@@ -184,7 +188,6 @@
     "Java/ООП/Инкапсуляция.md",
     "Java/ООП/Наследование.md",
     "Java/ООП/Полиморфизм.md",
-    "Java/ООП/Абстракция.md",
     "Java/ООП",
     "Java/Классы и объекты",
     "Kotlin/ООП",
