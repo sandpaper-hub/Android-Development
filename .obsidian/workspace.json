@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Обобщения/Обобщения.md",
+                "file": "Java/Переменные и типы данных/String.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/Переменные и типы данных/String.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/Переменные и типы данных/String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/Переменные и типы данных/String.md"
+              }
             }
           }
         ]
@@ -157,6 +161,7 @@
   },
   "active": "37d596bfaa7e70e5",
   "lastOpenFiles": [
+    "Java/Переменные и типы данных/String.md",
     "Java/Обобщения/Обобщения.md",
     "Java/Обобщения/Ограничения и wildcard.md",
     "Java/Java.md",
@@ -184,7 +189,6 @@
     "Java/Коллекции/Интерфейс Comparable и Comparator.md",
     "Java/Коллекции/Интерфейсы SortedMap и NavigableMap. Класс TreeMap.md",
     "Kotlin/Классы/Enum Kotlin.md",
-    "Java/Коллекции/SortedSet, NavigableSet, TreeSet.md",
     "res/original.jpeg",
     "Java/Коллекции",
     "Java/ООП",
