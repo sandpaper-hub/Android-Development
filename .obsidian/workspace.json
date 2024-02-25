@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d943ce647904bc6",
+            "id": "f89e2a25adbaa321",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Коллекции/Интерфейс Comparable и Comparator.md",
+                "file": "Java/Обобщения/Обобщения.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,6 +30,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -96,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Коллекции/Интерфейс Comparable и Comparator.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Коллекции/Интерфейс Comparable и Comparator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/Коллекции/Интерфейс Comparable и Comparator.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,36 +155,38 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "1d943ce647904bc6",
+  "active": "37d596bfaa7e70e5",
   "lastOpenFiles": [
-    "Java/Коллекции/SortedSet, NavigableSet, TreeSet.md",
-    "Java/Коллекции/Интерфейс Comparable и Comparator.md",
-    "Java/Коллекции/Коллекции.md",
-    "Java/Коллекции/Интерфейс Set и HashSet.md",
-    "Java/Коллекции/Интерфейс Queue и Deque.md",
-    "Java/Коллекции/LinkedList.md",
-    "Java/Лямбда выражения.md",
-    "Java/Коллекции/Интерфейс List.md",
-    "res/original.jpeg",
+    "Java/Обобщения/Обобщения.md",
+    "Java/Обобщения/Ограничения и wildcard.md",
     "Java/Java.md",
-    "Java/ООП/Объектно-ориентированное программирование.md",
-    "Java/ООП/Модификаторы доступа.md",
-    "Java/Коллекции",
-    "Java/Без названия.md",
-    "Java/Переменные и типы данных/Массивы.md",
-    "Java/Переменные и типы данных/Переменные Java.md",
-    "Java/Переменные и типы данных/Тип данных.md",
-    "Java/Переменные и типы данных/Ссылочные типы.md",
-    "Java/Классы и объекты/Классы и объекты.md",
-    "Java/Классы и объекты/Анонимные классы.md",
-    "Java/Классы и объекты/Вложенные классы.md",
-    "Java/Переменные и типы данных/Object Java.md",
-    "Java/Ключевое слово final.md",
-    "Java/Ключевое слово Static.md",
-    "Java/Классы и объекты/Интерфейсы.md",
-    "Java/ООП/Инкапсуляция.md",
+    "Java/Методы/Методы.md",
+    "Java/Обобщения/Generic методы и конструкторы.md",
+    "Java/Обобщения/Наследование Generic классов.md",
     "Java/ООП/Наследование.md",
-    "Java/ООП/Полиморфизм.md",
+    "Java/ООП/Объектно-ориентированное программирование.md",
+    "Kotlin/Обобщения/Обобщения (Generics).md",
+    "Java/Лямбда/Ссылки на метод.md",
+    "Java/Обобщения",
+    "Java/Лямбда/Лямбда выражения.md",
+    "Java/Ключевое слово static.md",
+    "Паттерны/Singleton.md",
+    "Kotlin/Классы/object Kotlin.md",
+    "Kotlin/Классы/Анонимные объекты Kotlin.md",
+    "Java/Лямбда/Ссылки на конструкторы.md",
+    "Java/Лямбда",
+    "Java/Без названия.md",
+    "Java/Лямбда/Лямбды как параметры и результаты методов.md",
+    "Паттерны/Паттерны.md",
+    "Java/Коллекции/Коллекции.md",
+    "Java/Коллекции/Iterator.md",
+    "Java/Коллекции/Интерфейс Map и класс HashMap.md",
+    "Java/Коллекции/Интерфейс Comparable и Comparator.md",
+    "Java/Коллекции/Интерфейсы SortedMap и NavigableMap. Класс TreeMap.md",
+    "Kotlin/Классы/Enum Kotlin.md",
+    "Java/Коллекции/SortedSet, NavigableSet, TreeSet.md",
+    "res/original.jpeg",
+    "Java/Коллекции",
     "Java/ООП",
     "Java/Классы и объекты",
     "Kotlin/ООП",
@@ -195,8 +194,6 @@
     "Java/Операторы",
     "Java/Переменные и типы данных",
     "Kotlin/Исключения",
-    "Kotlin/Обобщения",
-    "Kotlin/Методы/Без названия",
     "res/Распределение памяти.png",
     "res/Создание нового файла Kotlin.png",
     "res/Pasted image 20231213212259.png",

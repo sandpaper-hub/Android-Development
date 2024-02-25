@@ -74,5 +74,13 @@
       ],
       "key": "["
     }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
   ]
 }
