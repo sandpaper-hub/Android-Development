@@ -1,7 +1,6 @@
 [
   "obsidian-icons-plugin",
-  "obsidian-git",
   "cycle-through-panes",
   "canvas-mindmap",
-  "remotely-save"
+  "github-sync"
 ]

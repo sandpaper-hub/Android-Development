@@ -4,34 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "69be1f6f24f7b624",
+        "id": "d8935a2be6bb0c8f",
         "type": "tabs",
         "children": [
           {
-            "id": "f89e2a25adbaa321",
+            "id": "662e5956806112a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Переменные и типы данных/String.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37d596bfaa7e70e5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "pinned": true
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 1,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -50,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
-              }
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -66,7 +55,9 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -74,14 +65,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 288.49999618530273
   },
   "right": {
     "id": "112a82d729b4f450",
@@ -97,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Переменные и типы данных/String.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -114,10 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Переменные и типы данных/String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -127,8 +122,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -137,11 +136,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Переменные и типы данных/String.md"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -156,11 +160,26 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37d596bfaa7e70e5",
+  "active": "662e5956806112a0",
   "lastOpenFiles": [
+    "2025-04-07.md",
+    "Q&A.md",
+    "Kotlin/Kotlin.md",
+    "Kotlin/Классы/Классы Kotlin.md",
+    "res/Преобразование типов.png",
+    "Kotlin/Классы/object Kotlin.md",
+    "Kotlin/Классы/Изолированные классы и интерфейсы.md",
+    "Kotlin/Классы/Анонимные классы Kotlin.md",
+    "Kotlin/ООП/Модификаторы доступа Kotlin.md",
+    "Kotlin/Переменные/Переменные Kotlin.md",
+    "Паттерны/Singleton.md",
+    "Kotlin/Методы/Функции высшего порядка.md",
+    "Kotlin/Методы/Функциональные типы.md",
+    "Kotlin/Классы/Enum Kotlin.md",
     "Java/Переменные и типы данных/String.md",
     "Java/Обобщения/Обобщения.md",
     "Java/Обобщения/Ограничения и wildcard.md",
@@ -175,20 +194,7 @@
     "Java/Обобщения",
     "Java/Лямбда/Лямбда выражения.md",
     "Java/Ключевое слово static.md",
-    "Паттерны/Singleton.md",
-    "Kotlin/Классы/object Kotlin.md",
-    "Kotlin/Классы/Анонимные объекты Kotlin.md",
-    "Java/Лямбда/Ссылки на конструкторы.md",
     "Java/Лямбда",
-    "Java/Без названия.md",
-    "Java/Лямбда/Лямбды как параметры и результаты методов.md",
-    "Паттерны/Паттерны.md",
-    "Java/Коллекции/Коллекции.md",
-    "Java/Коллекции/Iterator.md",
-    "Java/Коллекции/Интерфейс Map и класс HashMap.md",
-    "Java/Коллекции/Интерфейс Comparable и Comparator.md",
-    "Java/Коллекции/Интерфейсы SortedMap и NavigableMap. Класс TreeMap.md",
-    "Kotlin/Классы/Enum Kotlin.md",
     "res/original.jpeg",
     "Java/Коллекции",
     "Java/ООП",
@@ -207,7 +213,6 @@
     "res/Task Shortcuts.png",
     "O.canvas",
     "Без названия.canvas",
-    "res/Nullable операторы.png",
-    "res/Типы данных Java.png"
+    "res/Nullable операторы.png"
   ]
 }
