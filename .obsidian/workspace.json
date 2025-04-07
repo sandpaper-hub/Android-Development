@@ -136,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "123.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 123"
+              "title": "Структура"
             }
           }
         ],
@@ -166,7 +165,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6b83c74d224886f1",
+  "active": "662e5956806112a0",
   "lastOpenFiles": [
     "123.md",
     "2025-04-07.md",
