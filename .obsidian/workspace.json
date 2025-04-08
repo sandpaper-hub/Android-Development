@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jetpack Compose/Modifier/Введение в модификаторы.md",
+                "file": "Jetpack Compose/Modifier/Модификатор тени shadow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Введение в модификаторы"
+              "title": "Модификатор тени shadow"
             }
           },
           {
@@ -190,8 +190,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b83c74d224886f1",
+  "active": "ad3ec52fb7aa8928",
   "lastOpenFiles": [
+    "Jetpack Compose/Modifier/Модификатор тени shadow.md",
     "Jetpack Compose/Modifier/Введение в модификаторы.md",
     "Без названия.md",
     "Jetpack Compose/Modifier/border.md",
@@ -228,7 +229,6 @@
     "123.md",
     "123.md",
     "2025-04-07.md",
-    "Q&A.md",
     "Java/Обобщения",
     "Java/Лямбда",
     "res/original.jpeg",
