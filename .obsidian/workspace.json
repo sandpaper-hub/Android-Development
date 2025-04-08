@@ -190,10 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9b031304d84cff8",
+  "active": "6b83c74d224886f1",
   "lastOpenFiles": [
-    "Jetpack Compose/Modifier/border.md",
     "Jetpack Compose/Modifier/Введение в модификаторы.md",
+    "Без названия.md",
+    "Jetpack Compose/Modifier/border.md",
     "Jetpack Compose/Modifier/Модификаторы прокрутки.md",
     "Jetpack Compose/Modifier/Модификаторы отступов и смещения.md",
     "Java/Обобщения/Обобщения.md",
@@ -228,7 +229,6 @@
     "123.md",
     "2025-04-07.md",
     "Q&A.md",
-    "Kotlin/Kotlin.md",
     "Java/Обобщения",
     "Java/Лямбда",
     "res/original.jpeg",
