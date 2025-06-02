@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Jetpack Compose/State/DerivedState.md",
+                "file": "Android/Jetpack Compose/State/Введение в состояния компонентов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DerivedState"
+              "title": "Введение в состояния компонентов"
             }
           }
         ]
@@ -180,11 +180,13 @@
   },
   "active": "12fc5634bee6d134",
   "lastOpenFiles": [
-    "Android/Jetpack Compose/State/CompositionLocal.md",
+    "Java/Java.md",
+    "Android/Jetpack Compose/Jetpack Compose.md",
+    "Android/Jetpack Compose/State/Введение в состояния компонентов.md",
     "Android/Jetpack Compose/State/DerivedState.md",
+    "Android/Jetpack Compose/State/CompositionLocal.md",
     "Android/Jetpack Compose/State/Однонаправленный поток данных (unidirectional data flow).md",
     "Android/Jetpack Compose/State/MutableState.md",
-    "Android/Jetpack Compose/State/Введение в состояния компонентов.md",
     "Android/Jetpack Compose/Modifier/Модификаторы прокрутки.md",
     "Android/Jetpack Compose/State",
     "Android/Android.md",
@@ -208,8 +210,6 @@
     "LazyRow.md",
     "Android/Jetpack Compose/Container/Card.md",
     "Android/Jetpack Compose/Container/Surface.md",
-    "Android/Jetpack Compose/Container/Row.md",
-    "Android/Jetpack Compose/Container/Column.md",
     "Android/Jetpack Compose/Container",
     "Jetpack Compose/Modifier/Без названия",
     "Android/Jetpack Compose/Modifier",
