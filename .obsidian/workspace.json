@@ -11,30 +11,17 @@
             "id": "12fc5634bee6d134",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "res/Task Shortcuts.png"
-              },
-              "icon": "lucide-image",
-              "title": "Task Shortcuts"
-            }
-          },
-          {
-            "id": "d56b35cc78e7abc9",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Q&A.md",
+                "file": "Android/Jetpack Compose/State/CompositionLocal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q&A"
+              "title": "CompositionLocal"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.49999618530273
+    "width": 200
   },
   "right": {
     "id": "112a82d729b4f450",
@@ -126,12 +113,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jetpack Compose/Modifier/Введение в модификаторы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Введение в модификаторы"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -155,13 +141,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Классы/Утилитарные классы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Утилитарные классы"
+              "title": "Структура"
             }
           },
           {
@@ -193,8 +178,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d56b35cc78e7abc9",
+  "active": "12fc5634bee6d134",
   "lastOpenFiles": [
+    "Android/Jetpack Compose/State/Однонаправленный поток данных (unidirectional data flow).md",
+    "Android/Jetpack Compose/State/CompositionLocal.md",
+    "Android/Jetpack Compose/State/MutableState.md",
+    "Android/Jetpack Compose/State/Введение в состояния компонентов.md",
+    "Android/Jetpack Compose/Modifier/Модификаторы прокрутки.md",
+    "Android/Jetpack Compose/State",
+    "Android/Android.md",
     "res/Task Shortcuts.png",
     "Q&A.md",
     "res/original.jpeg",
@@ -203,7 +195,6 @@
     "Android/Jetpack Compose/Container/Program Scroll.md",
     "README.md",
     "Введение.md",
-    "Android/Android.md",
     "Android",
     "Паттерны/Паттерны.md",
     "Android/Jetpack Compose/Container/Перечисления IntrinsicSize.md",
@@ -219,11 +210,7 @@
     "Android/Jetpack Compose/Container/Row.md",
     "Android/Jetpack Compose/Container/Column.md",
     "Android/Jetpack Compose/Container/Box.md",
-    "Kotlin/Kotlin.md",
-    "Android/Jetpack Compose/Jetpack Compose.md",
     "Android/Jetpack Compose/Container",
-    "Android/Jetpack Compose/Modifier/Объединение и переопределение модификаторов.md",
-    "Android/Jetpack Compose/Modifier/Модификатор clickable.md",
     "Jetpack Compose/Modifier/Без названия",
     "Android/Jetpack Compose/Modifier",
     "Android/Jetpack Compose",
@@ -238,7 +225,6 @@
     "Java/Лямбда",
     "Java/Коллекции",
     "Java/ООП",
-    "Java/Классы и объекты",
     "res/Pasted image 20231213212259.png",
     "O.canvas",
     "Без названия.canvas"
