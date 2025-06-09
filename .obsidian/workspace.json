@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Jetpack Compose/UI Components/Button/ElevatedButton.md",
+                "file": "Android/Jetpack Compose/UI Components/Button/OutlinedButton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ElevatedButton"
+              "title": "OutlinedButton"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "112a82d729b4f450",
@@ -177,16 +178,17 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "remotely-save:Remotely Save": false,
-      "obsidian-git:Open Git source control": false,
-      "juggl:Juggl global graph": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9b031304d84cff8",
+  "active": "a2f0c3be4149e164",
   "lastOpenFiles": [
+    "Android/Jetpack Compose/UI Components/Button/Button.md",
+    "Android/Jetpack Compose/UI Components/Button/OutlinedButton.md",
     "Android/Jetpack Compose/UI Components/Button/FilledTonalButton.md",
+    "Android/Jetpack Compose/UI Components/Button/ElevatedButton.md",
     "Kotlin/Переменные/Переменные Kotlin.md",
     "Kotlin/Переменные/Константы времени компиляции.md",
-    "Android/Jetpack Compose/UI Components/Button/Button.md",
     "Java/Лямбда/Лямбда выражения.md",
     "Android/Android.md",
     "Java/Переменные и типы данных/Переменные Java.md",
@@ -194,7 +196,6 @@
     "Android/Jetpack Compose/Jetpack Compose.md",
     "Java/Классы и объекты/Классы и объекты.md",
     "res/Распределение памяти.png",
-    "Android/Jetpack Compose/UI Components/Button/ElevatedButton.md",
     "Android/Jetpack Compose/UI Components/Введение в визуальные компоненты.md",
     "Android/Jetpack Compose/UI Components/Button",
     "Android/Jetpack Compose/UI Components/Text.md",
@@ -215,7 +216,6 @@
     "README.md",
     "Введение.md",
     "Android",
-    "Паттерны/Паттерны.md",
     "Android/Jetpack Compose/Container",
     "Jetpack Compose/Modifier/Без названия",
     "Android/Jetpack Compose/Modifier",

@@ -23,7 +23,7 @@ fun SimpleButton() {
 | `Button`                                 | Базовая «filled» кнопка                |
 | [ElevatedButton](<ElevatedButton>)       | Кнопка с тенью (поднятая над фоном)    |
 | [FilledTonalButton](<FilledTonalButton>) | Тональная (secondary) кнопка           |
-| `OutlinedButton`                         | Кнопка с контуром, без заливки         |
+| [OutlinedButton](<OutlinedButton>)       | Кнопка с контуром, без заливки         |
 | `TextButton`                             | «Текстовая» кнопка, минимальный акцент |
 | `IconButton`                             | Кнопка только с иконкой                |
 ### Настройка внешнего вида
