@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Jetpack Compose/UI Components/TextField.md",
+                "file": "Android/Jetpack Compose/UI Components/TextField/TextField.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "112a82d729b4f450",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Jetpack Compose/UI Components/Button/ElevatedButton.md",
+                "file": "Android/Jetpack Compose/UI Components/TextField/TextField.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для ElevatedButton"
+              "title": "Обратные ссылки для TextField"
             }
           },
           {
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/Jetpack Compose/UI Components/Button/ElevatedButton.md",
+                "file": "Android/Jetpack Compose/UI Components/TextField/TextField.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из ElevatedButton"
+              "title": "Исходящие ссылки из TextField"
             }
           },
           {
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/Jetpack Compose/UI Components/Button/ElevatedButton.md",
+                "file": "Android/Jetpack Compose/UI Components/TextField/TextField.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура ElevatedButton"
+              "title": "Структура TextField"
             }
           },
           {
@@ -162,12 +161,12 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +182,10 @@
   },
   "active": "ba6946d92baf1971",
   "lastOpenFiles": [
+    "Android/Jetpack Compose/UI Components/TextField/OutlinedTextField.md",
+    "Android/Jetpack Compose/UI Components/TextField/TextField.md",
+    "Android/Jetpack Compose/UI Components/TextField",
     "Android/Jetpack Compose/UI Components/Button/TextButton.md",
-    "Android/Jetpack Compose/UI Components/TextField.md",
     "Android/Jetpack Compose/UI Components/Button/Button.md",
     "Android/Jetpack Compose/UI Components/Button/OutlinedButton.md",
     "Android/Jetpack Compose/UI Components/Button/FilledTonalButton.md",
@@ -214,7 +215,6 @@
     "res/original.jpeg",
     "Android/Jetpack Compose/Container/Введение в контейнеры.md",
     "Android/Jetpack Compose/Container/StickyHeader.md",
-    "Android/Jetpack Compose/Container/Program Scroll.md",
     "Android",
     "Android/Jetpack Compose/Container",
     "Jetpack Compose/Modifier/Без названия",
@@ -227,7 +227,6 @@
     "res/Преобразование типов.png",
     "res/Pasted image 20231128222529.png",
     "Java/Обобщения",
-    "Java/Лямбда",
     "res/Pasted image 20231213212259.png",
     "O.canvas",
     "Без названия.canvas"
