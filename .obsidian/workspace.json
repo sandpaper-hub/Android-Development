@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Jetpack Compose/UI Components/TextField/TextField.md",
+                "file": "Android/Jetpack Compose/UI Components/TextField/BasicTextField.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TextField"
+              "title": "BasicTextField"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "ba6946d92baf1971",
   "lastOpenFiles": [
-    "Android/Jetpack Compose/UI Components/TextField/OutlinedTextField.md",
     "Android/Jetpack Compose/UI Components/TextField/TextField.md",
+    "Android/Jetpack Compose/UI Components/TextField/BasicTextField.md",
+    "Android/Jetpack Compose/UI Components/TextField/OutlinedTextField.md",
     "Android/Jetpack Compose/UI Components/TextField",
     "Android/Jetpack Compose/UI Components/Button/TextButton.md",
     "Android/Jetpack Compose/UI Components/Button/Button.md",
@@ -214,7 +215,6 @@
     "Q&A.md",
     "res/original.jpeg",
     "Android/Jetpack Compose/Container/Введение в контейнеры.md",
-    "Android/Jetpack Compose/Container/StickyHeader.md",
     "Android",
     "Android/Jetpack Compose/Container",
     "Jetpack Compose/Modifier/Без названия",
