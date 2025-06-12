@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "57585bc871a8cd7d",
+        "id": "b60c80ac90613064",
         "type": "tabs",
         "children": [
           {
-            "id": "a2f0c3be4149e164",
+            "id": "ba6946d92baf1971",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Jetpack Compose/UI Components/Button/OutlinedButton.md",
+                "file": "Android/Jetpack Compose/UI Components/TextField.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OutlinedButton"
+              "title": "TextField"
             }
           }
         ]
@@ -181,8 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2f0c3be4149e164",
+  "active": "ba6946d92baf1971",
   "lastOpenFiles": [
+    "Android/Jetpack Compose/UI Components/Button/TextButton.md",
+    "Android/Jetpack Compose/UI Components/TextField.md",
     "Android/Jetpack Compose/UI Components/Button/Button.md",
     "Android/Jetpack Compose/UI Components/Button/OutlinedButton.md",
     "Android/Jetpack Compose/UI Components/Button/FilledTonalButton.md",
@@ -213,8 +215,6 @@
     "Android/Jetpack Compose/Container/Введение в контейнеры.md",
     "Android/Jetpack Compose/Container/StickyHeader.md",
     "Android/Jetpack Compose/Container/Program Scroll.md",
-    "README.md",
-    "Введение.md",
     "Android",
     "Android/Jetpack Compose/Container",
     "Jetpack Compose/Modifier/Без названия",
