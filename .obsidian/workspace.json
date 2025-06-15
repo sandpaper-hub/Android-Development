@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Jetpack Compose/UI Components/CheckBox и TriStateCheckBox.md",
+                "file": "Android/Jetpack Compose/Modifier/Модификатор selectable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CheckBox и TriStateCheckBox"
+              "title": "Модификатор selectable"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Jetpack Compose/UI Components/CheckBox и TriStateCheckBox.md",
+                "file": "Android/Jetpack Compose/Modifier/Модификатор selectable.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для CheckBox и TriStateCheckBox"
+              "title": "Обратные ссылки для Модификатор selectable"
             }
           },
           {
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/Jetpack Compose/UI Components/CheckBox и TriStateCheckBox.md",
+                "file": "Android/Jetpack Compose/Modifier/Модификатор selectable.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура CheckBox и TriStateCheckBox"
+              "title": "Структура Модификатор selectable"
             }
           },
           {
@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,13 +182,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9b031304d84cff8",
+  "active": "c009269773e8a24a",
   "lastOpenFiles": [
+    "Android/Jetpack Compose/UI Components/CheckBox и TriStateCheckBox.md",
+    "Android/Jetpack Compose/Modifier/Модификатор selectable.md",
     "Android/Jetpack Compose/UI Components/Введение в визуальные компоненты.md",
     "Kotlin/Kotlin.md",
     "Java/Переменные и типы данных/Тип данных.md",
     "Android/Jetpack Compose/Modifier/Модификатор toggleable.md",
-    "Android/Jetpack Compose/UI Components/CheckBox и TriStateCheckBox.md",
     "Android/Jetpack Compose/Modifier/Модификатор сlip.md",
     "Android/Jetpack Compose/Modifier/Модификатор background.md",
     "Android/Jetpack Compose/Modifier/Модификатор border.md",
@@ -209,7 +211,6 @@
     "Android/Jetpack Compose/UI Components/Button/Button.md",
     "Android/Jetpack Compose/UI Components/Button/OutlinedButton.md",
     "Android/Jetpack Compose/UI Components/Button/FilledTonalButton.md",
-    "Android/Jetpack Compose/UI Components/Button/ElevatedButton.md",
     "res/Распределение памяти.png",
     "Android/Jetpack Compose/UI Components/Button",
     "Android/Jetpack Compose/UI Components",
