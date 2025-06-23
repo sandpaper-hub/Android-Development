@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Jetpack Compose/Modifier/Модификатор selectable.md",
+                "file": "Android/Jetpack Compose/UI Components/Button/IconButton и IconToggleButton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Модификатор selectable"
+              "title": "IconButton и IconToggleButton"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Jetpack Compose/Modifier/Модификатор selectable.md",
+                "file": "Android/Jetpack Compose/UI Components/Button/IconButton и IconToggleButton.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Модификатор selectable"
+              "title": "Обратные ссылки для IconButton и IconToggleButton"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/Jetpack Compose/UI Components/TextField/TextField.md",
+                "file": "Android/Jetpack Compose/UI Components/RadioButton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из TextField"
+              "title": "Исходящие ссылки из RadioButton"
             }
           },
           {
@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,35 +181,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c009269773e8a24a",
+  "active": "c9b031304d84cff8",
   "lastOpenFiles": [
-    "Android/Jetpack Compose/UI Components/CheckBox и TriStateCheckBox.md",
-    "Android/Jetpack Compose/Modifier/Модификатор selectable.md",
+    "Android/Jetpack Compose/UI Components/RadioButton.md",
+    "Android/Jetpack Compose/UI Components/Button/IconButton и IconToggleButton.md",
     "Android/Jetpack Compose/UI Components/Введение в визуальные компоненты.md",
+    "Android/Jetpack Compose/UI Components/CheckBox и TriStateCheckBox.md",
+    "Android/Jetpack Compose/Modifier/Введение в модификаторы.md",
+    "Android/Jetpack Compose/Modifier/Модификатор selectable.md",
+    "Android/Jetpack Compose/Jetpack Compose.md",
+    "Android/Jetpack Compose/State/Введение в состояния компонентов.md",
+    "Android/Jetpack Compose/Navigation/Navigation.md",
+    "Android/Jetpack Compose/Modifier/Объединение и переопределение модификаторов.md",
+    "Android/Jetpack Compose/Navigation",
     "Kotlin/Kotlin.md",
     "Java/Переменные и типы данных/Тип данных.md",
     "Android/Jetpack Compose/Modifier/Модификатор toggleable.md",
     "Android/Jetpack Compose/Modifier/Модификатор сlip.md",
     "Android/Jetpack Compose/Modifier/Модификатор background.md",
     "Android/Jetpack Compose/Modifier/Модификатор border.md",
-    "Android/Jetpack Compose/Modifier/Введение в модификаторы.md",
     "README.md",
     "Q&A.md",
     "Android/Jetpack Compose/Modifier/Модификатор тени shadow.md",
     "Android/Android.md",
     "Модификатор.md",
     "Android/Jetpack Compose/Modifier/Модификатор clickable.md",
-    "Android/Jetpack Compose/State/Введение в состояния компонентов.md",
-    "Android/Jetpack Compose/Jetpack Compose.md",
     "Android/Jetpack Compose/Modifier/Модификаторы отступов и смещения.md",
     "Android/Jetpack Compose/UI Components/TextField/BasicTextField.md",
     "Android/Jetpack Compose/UI Components/TextField/TextField.md",
     "Android/Jetpack Compose/UI Components/TextField/OutlinedTextField.md",
     "Android/Jetpack Compose/UI Components/TextField",
-    "Android/Jetpack Compose/UI Components/Button/TextButton.md",
-    "Android/Jetpack Compose/UI Components/Button/Button.md",
-    "Android/Jetpack Compose/UI Components/Button/OutlinedButton.md",
-    "Android/Jetpack Compose/UI Components/Button/FilledTonalButton.md",
     "res/Распределение памяти.png",
     "Android/Jetpack Compose/UI Components/Button",
     "Android/Jetpack Compose/UI Components",
@@ -228,7 +228,6 @@
     "res/Типы данных.png",
     "res/Преобразование типов.png",
     "res/Pasted image 20231128222529.png",
-    "Java/Обобщения",
     "res/Pasted image 20231213212259.png",
     "O.canvas",
     "Без названия.canvas"
