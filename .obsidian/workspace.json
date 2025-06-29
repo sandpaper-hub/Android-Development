@@ -11,10 +11,14 @@
             "id": "0055f4eeb349c403",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Android/Jetpack Compose/UI Components/Snackbar.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Snackbar"
             }
           }
         ]
@@ -139,12 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Android/Jetpack Compose/UI Components/Snackbar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Snackbar"
             }
           },
           {
@@ -179,6 +184,7 @@
   },
   "active": "0055f4eeb349c403",
   "lastOpenFiles": [
+    "Android/Jetpack Compose/UI Components/Snackbar.md",
     "Android/Jetpack Compose/Container/Scaffold.md",
     "Android/Jetpack Compose/UI Components/Text.md",
     "Android/Jetpack Compose/UI Components/TextField/TextField.md",
@@ -205,7 +211,6 @@
     "Q&A.md",
     "Android/Jetpack Compose/Modifier/Модификатор тени shadow.md",
     "Android/Android.md",
-    "Модификатор.md",
     "Android/Jetpack Compose/UI Components/TextField",
     "res/Распределение памяти.png",
     "Android/Jetpack Compose/UI Components/Button",
