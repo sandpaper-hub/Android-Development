@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f9803b7fdc82eb9c",
+        "id": "3ea7c7ea7a335cf9",
         "type": "tabs",
         "children": [
           {
-            "id": "c009269773e8a24a",
+            "id": "0055f4eeb349c403",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Android/Jetpack Compose/UI Components/TopAppBar и BottomAppBar.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TopAppBar и BottomAppBar"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -143,13 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/Jetpack Compose/Modifier/Модификатор selectable.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Модификатор selectable"
+              "title": "Структура"
             }
           },
           {
@@ -163,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -182,10 +177,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c009269773e8a24a",
+  "active": "0055f4eeb349c403",
   "lastOpenFiles": [
-    "Android/Jetpack Compose/UI Components/Button/FloatingActionButton и ExtendedFloatingActionButton.md",
+    "Android/Jetpack Compose/Container/Scaffold.md",
+    "Android/Jetpack Compose/UI Components/Text.md",
+    "Android/Jetpack Compose/UI Components/TextField/TextField.md",
     "Android/Jetpack Compose/UI Components/TopAppBar и BottomAppBar.md",
+    "Android/Jetpack Compose/UI Components/Button/FloatingActionButton и ExtendedFloatingActionButton.md",
     "Android/Jetpack Compose/UI Components/Button/IconButton и IconToggleButton.md",
     "Android/Jetpack Compose/UI Components/Button/RadioButton.md",
     "Android/Jetpack Compose/UI Components/Введение в визуальные компоненты.md",
@@ -208,9 +206,6 @@
     "Android/Jetpack Compose/Modifier/Модификатор тени shadow.md",
     "Android/Android.md",
     "Модификатор.md",
-    "Android/Jetpack Compose/Modifier/Модификатор clickable.md",
-    "Android/Jetpack Compose/Modifier/Модификаторы отступов и смещения.md",
-    "Android/Jetpack Compose/UI Components/TextField/BasicTextField.md",
     "Android/Jetpack Compose/UI Components/TextField",
     "res/Распределение памяти.png",
     "Android/Jetpack Compose/UI Components/Button",
