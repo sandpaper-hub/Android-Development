@@ -18,14 +18,15 @@ fun SimpleButton() {
 ### Варианты кнопок в Material 3
 Помимо базового `Button`, в Material 3 есть несколько вариантов:
 
-| Компонент                                | Описание                               |
-| ---------------------------------------- | -------------------------------------- |
-| `Button`                                 | Базовая «filled» кнопка                |
-| [ElevatedButton](<ElevatedButton>)       | Кнопка с тенью (поднятая над фоном)    |
-| [FilledTonalButton](<FilledTonalButton>) | Тональная (secondary) кнопка           |
-| [OutlinedButton](<OutlinedButton>)       | Кнопка с контуром, без заливки         |
-| [TextButton](<TextButton>)               | «Текстовая» кнопка, минимальный акцент |
-| `IconButton`                             | Кнопка только с иконкой                |
+| Компонент                                               | Описание                                                         |
+| ------------------------------------------------------- | ---------------------------------------------------------------- |
+| `Button`                                                | Базовая «filled» кнопка                                          |
+| [ElevatedButton](<ElevatedButton>)                      | Кнопка с тенью (поднятая над фоном)                              |
+| [FilledTonalButton](<FilledTonalButton>)                | Тональная (secondary) кнопка                                     |
+| [OutlinedButton](<OutlinedButton>)                      | Кнопка с контуром, без заливки                                   |
+| [TextButton](<TextButton>)                              | «Текстовая» кнопка, минимальный акцент                           |
+| [IconButton](<IconButton и IconToggleButton>)           | Кнопка только с иконкой                                          |
+| [[FloatingActionButton и ExtendedFloatingActionButton]] | Круглая плавающая кнопка, используемая для самых важных действий |
 ### Настройка внешнего вида
 #### Цвета и состояние
 
