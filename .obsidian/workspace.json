@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Jetpack Compose/UI Components/Button/FloatingActionButton и ExtendedFloatingActionButton.md",
+                "file": "Android/Jetpack Compose/UI Components/TopAppBar и BottomAppBar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FloatingActionButton и ExtendedFloatingActionButton"
+              "title": "TopAppBar и BottomAppBar"
             }
           }
         ]
@@ -184,9 +184,10 @@
   },
   "active": "c009269773e8a24a",
   "lastOpenFiles": [
-    "Android/Jetpack Compose/UI Components/Button/IconButton и IconToggleButton.md",
     "Android/Jetpack Compose/UI Components/Button/FloatingActionButton и ExtendedFloatingActionButton.md",
-    "Android/Jetpack Compose/UI Components/RadioButton.md",
+    "Android/Jetpack Compose/UI Components/TopAppBar и BottomAppBar.md",
+    "Android/Jetpack Compose/UI Components/Button/IconButton и IconToggleButton.md",
+    "Android/Jetpack Compose/UI Components/Button/RadioButton.md",
     "Android/Jetpack Compose/UI Components/Введение в визуальные компоненты.md",
     "Android/Jetpack Compose/UI Components/CheckBox и TriStateCheckBox.md",
     "Android/Jetpack Compose/Modifier/Введение в модификаторы.md",
@@ -210,7 +211,6 @@
     "Android/Jetpack Compose/Modifier/Модификатор clickable.md",
     "Android/Jetpack Compose/Modifier/Модификаторы отступов и смещения.md",
     "Android/Jetpack Compose/UI Components/TextField/BasicTextField.md",
-    "Android/Jetpack Compose/UI Components/TextField/TextField.md",
     "Android/Jetpack Compose/UI Components/TextField",
     "res/Распределение памяти.png",
     "Android/Jetpack Compose/UI Components/Button",
