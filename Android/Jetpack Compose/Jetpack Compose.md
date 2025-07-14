@@ -89,3 +89,5 @@ fun GreetingPreview() {
 2. [Контейнеры](<Введение в контейнеры.md>)
 3. [[Введение в состояния компонентов]]
 4. [UI Компоненты](<Введение в визуальные компоненты>)
+5. [[Resources]]
+6. [[Custom Container layout и Custom Modifier layout]]

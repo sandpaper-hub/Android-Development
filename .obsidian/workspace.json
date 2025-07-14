@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Jetpack Compose/Custom Container Layout/Custom Container layout и Custom Modifier layout.md",
+                "file": "Android/Jetpack Compose/UI Components/Введение в визуальные компоненты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Custom Container layout и Custom Modifier layout"
+              "title": "Введение в визуальные компоненты"
+            }
+          },
+          {
+            "id": "ab5bd7caaeb55b01",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a46f43bff9982efd",
@@ -95,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Jetpack Compose/UI Components/ModalNavigationDrawer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для ModalNavigationDrawer"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -171,19 +180,21 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "ed51ff4426d88295",
+  "active": "ab5bd7caaeb55b01",
   "lastOpenFiles": [
+    "Android/Jetpack Compose/UI Components/Image.md",
+    "Android/Jetpack Compose/UI Components/Введение в визуальные компоненты.md",
+    "Android/Jetpack Compose/Resources/Resources.md",
+    "Android/Jetpack Compose/Jetpack Compose.md",
+    "Android/Jetpack Compose/UI Components/Slider.md",
     "Android/Jetpack Compose/Custom Container Layout/Custom Container layout и Custom Modifier layout.md",
     "Android/Jetpack Compose/Custom Container Layout",
-    "Android/Jetpack Compose/UI Components/Компонент Image.md",
     "Android/Jetpack Compose/Resources/Без названия.md",
-    "Android/Jetpack Compose/Resources/Введение в ресурсы.md",
     "Android/Jetpack Compose/Resources",
     "Android/Jetpack Compose/UI Components/ProgressIndicator.md",
     "Android/Jetpack Compose/UI Components/DropdownMenu.md",
     "Android/Jetpack Compose/UI Components/AlertDialog.md",
     "Android/Jetpack Compose/UI Components/Switch.md",
-    "Android/Jetpack Compose/UI Components/Slider.md",
     "Android/Jetpack Compose/UI Components/ModalNavigationDrawer.md"
   ]
 }
