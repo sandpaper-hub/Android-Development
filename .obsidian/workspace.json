@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3221aa5349ab2dee",
+        "id": "40129ac1d16458d3",
         "type": "tabs",
         "children": [
           {
-            "id": "ed51ff4426d88295",
+            "id": "829442aaf4de094e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Jetpack Compose/UI Components/Введение в визуальные компоненты.md",
+                "file": "Android/Jetpack Compose/Coroutines/Launched Effect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Введение в визуальные компоненты"
-            }
-          },
-          {
-            "id": "ab5bd7caaeb55b01",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Launched Effect"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,15 +169,28 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "ab5bd7caaeb55b01",
+  "active": "829442aaf4de094e",
   "lastOpenFiles": [
-    "Android/Jetpack Compose/UI Components/Image.md",
+    "Android/Jetpack Compose/Coroutines/Введение в Coroutine.md",
+    "Android/Jetpack Compose/Coroutines/Launched Effect.md",
+    "Android/Jetpack Compose/Coroutines/Coroutine Dispatchers.md",
+    "Android/Jetpack Compose/Coroutines/Job.md",
+    "Android/Jetpack Compose/Coroutines/Coroutine Builders.md",
+    "Android/Jetpack Compose/Container/Введение в контейнеры.md",
+    "Android/Jetpack Compose/Coroutines",
     "Android/Jetpack Compose/UI Components/Введение в визуальные компоненты.md",
-    "Android/Jetpack Compose/Resources/Resources.md",
     "Android/Jetpack Compose/Jetpack Compose.md",
+    "Android/Jetpack Compose/Container/ConstraintLayout/Введение в ConstraintLayout.md",
+    "Android/Jetpack Compose/Container/ConstraintLayout/Constraint Set.md",
+    "Android/Jetpack Compose/Container/ConstraintLayout/Barrirer ConstraintLayout.md",
+    "Android/Jetpack Compose/Container/ConstraintLayout/Guideline ConstraintLayout.md",
+    "Q&A.md",
+    "Android/Jetpack Compose/Container/ConstraintLayout",
+    "Android/Jetpack Compose/UI Components/Image.md",
+    "Android/Jetpack Compose/Resources/Resources.md",
     "Android/Jetpack Compose/UI Components/Slider.md",
-    "Android/Jetpack Compose/Custom Container Layout/Custom Container layout и Custom Modifier layout.md",
-    "Android/Jetpack Compose/Custom Container Layout",
+    "Android/Jetpack Compose/Container/Custom Container Layout/Custom Container layout и Custom Modifier layout.md",
+    "Android/Jetpack Compose/Container/Custom Container Layout",
     "Android/Jetpack Compose/Resources/Без названия.md",
     "Android/Jetpack Compose/Resources",
     "Android/Jetpack Compose/UI Components/ProgressIndicator.md",
