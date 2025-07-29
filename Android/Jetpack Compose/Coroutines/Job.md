@@ -115,3 +115,46 @@ class MyViewModel : ViewModel() {
 |---|---|
 |`Job`|Задача без результата|
 |`Deferred<T>`|Задача с результатом (`async`)|
+## Полный пример:
+```kotlin
+@Composable  
+@Suppress("FunctionName")  
+fun JobExample(modifier: Modifier) {  
+    val scope = rememberCoroutineScope()  
+    var job by remember { mutableStateOf<Job?>(null) }  
+    var textValue by remember { mutableStateOf("Waiting...") }  
+  
+    ConstraintLayout(modifier = modifier.then(Modifier.fillMaxSize())) {  
+        val (text, buttonStart, buttonCancel) = createRefs()  
+  
+        createVerticalChain(text, buttonStart, buttonCancel, chainStyle = ChainStyle.Packed)  
+  
+        Text(textValue, modifier = Modifier.constrainAs(text) {  
+            centerHorizontallyTo(parent)  
+        })  
+  
+        Button(onClick = {  
+            job = scope.launch {  
+                textValue = "Process's started"  
+                delay(5000)  
+                textValue = "Ready!"  
+            }  
+        }, modifier = Modifier.constrainAs(buttonStart) {  
+            centerHorizontallyTo(parent)  
+        }) {  
+            Text("Start")  
+        }  
+  
+        Button(onClick = {  
+            job = scope.launch {  
+                job?.cancel()  
+                textValue = "Canceled"  
+            }  
+        }, modifier = Modifier.constrainAs(buttonCancel) {  
+            centerHorizontallyTo(parent)  
+        }) {  
+            Text("Cancel")  
+        }  
+    }
+}
+```

@@ -1,6 +1,3 @@
-#TODO
-Добавить информацию про chains, guideline, barrier, constraintSet
-
 В **Jetpack Compose** существует специальный layout под названием `ConstraintLayout`, который позволяет гибко размещать элементы на экране с помощью **ограничений** — аналогично тому, как это работает в XML-версии ConstraintLayout.
 
 ### Когда использовать `ConstraintLayout`?
