@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Jetpack Compose/Animation/animate(...)AsState/repeatable и infiniteRepeatable.md",
+                "file": "Android/Jetpack Compose/Animation/animate(...)AsState/animateColorAsState.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "repeatable и infiniteRepeatable"
+              "title": "animateColorAsState"
             }
           }
         ]
@@ -183,10 +183,11 @@
   },
   "active": "d7cc7c018bbd40c8",
   "lastOpenFiles": [
+    "Android/Jetpack Compose/Animation/animate(...)AsState/animateDpAsState.md",
+    "Android/Jetpack Compose/Animation/animate(...)AsState/animateColorAsState.md",
     "Android/Jetpack Compose/Animation/animate(...)AsState/Типы анимации animationSpec.md",
     "Android/Jetpack Compose/Animation/animate(...)AsState/repeatable и infiniteRepeatable.md",
     "Android/Jetpack Compose/Animation/animate(...)AsState",
-    "Android/Jetpack Compose/Animation/animate(...)AsState/animateDpAsState.md",
     "Android/Jetpack Compose/Animation/Введение в анимацию.md",
     "Android/Jetpack Compose/Jetpack Compose.md",
     "Android/Jetpack Compose/Animation",
@@ -211,7 +212,6 @@
     "Android/Jetpack Compose/Container/ConstraintLayout/Введение в ConstraintLayout.md",
     "Android/Jetpack Compose/Coroutines/Launched Effect.md",
     "Android/Jetpack Compose/UI Components/Snackbar.md",
-    "Android/Jetpack Compose/Container/Scaffold.md",
     "Android/Jetpack Compose/Coroutines",
     "Android/Jetpack Compose/Container/ConstraintLayout",
     "Android/Jetpack Compose/Container/Custom Container Layout",
