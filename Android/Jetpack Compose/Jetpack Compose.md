@@ -92,3 +92,4 @@ fun GreetingPreview() {
 5. [[Resources]]
 6. [Coroutines](<Введение в Coroutine>)
 7. [Animation](<Введение в анимацию>)
+8. [[Рисование Canvas и DrawScope]]

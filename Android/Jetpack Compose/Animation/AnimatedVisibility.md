@@ -251,3 +251,6 @@ private fun DemoCard(text: String, color: Color) {
 - **направление и точку старта/финиша:** `initialOffsetY`, `targetOffsetY`, `expandFrom`, `shrinkTowards`;
     
 - **комбинации эффектов:** складывай переходы оператором `+` (например, `slide + fade + scaleIn()`).
+
+## Модификатор animateEnterExit()
+[[Модификатор animateEnterExit()]]
