@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/Jetpack Compose/Canvas/drawCircle.md",
+                "file": "Android/Jetpack Compose/Canvas/drawArc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "drawCircle"
+              "title": "drawArc"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/Jetpack Compose/Canvas/drawCircle.md",
+                "file": "Android/Jetpack Compose/Canvas/drawArc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из drawCircle"
+              "title": "Исходящие ссылки из drawArc"
             }
           },
           {
@@ -182,8 +182,10 @@
   },
   "active": "e14211d7b88438f8",
   "lastOpenFiles": [
-    "Android/Jetpack Compose/Canvas/drawRect.md",
+    "Android/Jetpack Compose/Container/ConstraintLayout/Constraint Set.md",
+    "Android/Jetpack Compose/Canvas/drawArc.md",
     "Android/Jetpack Compose/Canvas/drawCircle.md",
+    "Android/Jetpack Compose/Canvas/drawRect.md",
     "Android/Jetpack Compose/Canvas/drawLine.md",
     "Android/Jetpack Compose/Canvas/Рисование Canvas и DrawScope.md",
     "Android/Jetpack Compose/Animation/Введение в анимацию.md",
@@ -203,14 +205,12 @@
     "Android/Jetpack Compose/Container/ConstraintLayout/Введение в ConstraintLayout.md",
     "Android/Jetpack Compose/Container/ConstraintLayout/Chain.md",
     "Android/Jetpack Compose/Coroutines/Job.md",
-    "Android/Jetpack Compose/Container/ConstraintLayout/Constraint Set.md",
     "Android/Jetpack Compose/Container/ConstraintLayout/Guideline ConstraintLayout.md",
     "Android/Jetpack Compose/Container/ConstraintLayout/Barrirer ConstraintLayout.md",
     "Android/Jetpack Compose/Animation/animate(...)AsState/animateFloatAsState.md",
     "Android/Jetpack Compose/Animation/animate(...)AsState",
     "Android/Jetpack Compose/Animation",
     "Android/Jetpack Compose/Container/HorizontalPager и VerticalPager.md",
-    "Kotlin/Классы/Конструкторы.md",
     "Android/Jetpack Compose/Coroutines/Flow",
     "Android/Jetpack Compose/Coroutines",
     "Android/Jetpack Compose/Container/ConstraintLayout",
