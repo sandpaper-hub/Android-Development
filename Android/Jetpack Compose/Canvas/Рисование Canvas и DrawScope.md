@@ -106,3 +106,14 @@ fun MultipleDrawExample() {
 - Эффекты (тени, клиппинг, градиенты).
     
 - Отрисовка UI-элементов, которых нет в стандартных компонентах Compose.
+
+- [[drawRect]]
+- [[drawCircle]]
+- [[drawLine]]
+- [[drawArc]]
+- [[drawImage]]
+- [[drawPath]]
+- [[drawPoints]]
+- [[drawText]]
+- [[Градиент]]
+- [[Трансформации]]
